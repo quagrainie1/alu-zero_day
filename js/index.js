@@ -1,1 +1,1 @@
-// index JS file
+console.log("index.js");

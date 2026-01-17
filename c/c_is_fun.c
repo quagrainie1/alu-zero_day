@@ -1,1 +1,1 @@
-// C is fun
+int main() { return 0; }
