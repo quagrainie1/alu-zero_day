@@ -1,1 +1,1 @@
-console.log("main.js");
+// main JS file
